@@ -7,7 +7,7 @@
 
 ### 강의 목록 & 실습 링크(Colab)
 
-01. 자료구조 
+01. 자료구조 <https://github.com/gimbabheaven/2023-Basic_Python/commit/fb7633e5c3f5830f809621ef85de79ac9b9fec21>
 02. 리스트 & 튜플 
 03. 세트 & 딕셔너리 
 04. 문자열 
