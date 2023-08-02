@@ -7,7 +7,7 @@
 
 ### 강의 목록 & 실습 링크(Colab)
 
-01. 자료구조 [자료구조.ipynb] (https://github.com/gimbabheaven/2023-Basic_Python/blob/master/01_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.ipynb)
+01. 자료구조 [자료구조.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/blob/master/01_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.ipynb)
 02. 리스트 & 튜플 
 03. 세트 & 딕셔너리 
 04. 문자열 
