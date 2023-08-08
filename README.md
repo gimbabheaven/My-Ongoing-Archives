@@ -11,7 +11,7 @@
 02. 리스트 & 튜플 [리스트&튜플.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/blob/master/02_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%A6%AC%EC%8A%A4%ED%8A%B8_%ED%8A%9C%ED%94%8C.ipynb)
 03. 세트 & 딕셔너리 [세트&딕셔너리.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/blob/master/03_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%84%B8%ED%8A%B8_%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC.ipynb)
 04. 문자열 [문자열.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/blob/master/04_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%AC%B8%EC%9E%90%EC%97%B4.ipynb)
-05. 연산 
+05. 연산 [연산.inpynb](https://github.com/gimbabheaven/2023-Basic_Python/blob/master/05_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%97%B0%EC%82%B0.ipynb)
 06. 조건문 
 07. 반복문 
 08. 컴프리헨션 
