@@ -15,6 +15,6 @@
 06. 조건문 [조건문.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/blob/master/06_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%B9%84%EA%B5%90_%EB%85%BC%EB%A6%AC_%EC%82%BC%ED%95%AD%EC%97%B0%EC%82%B0%EC%9E%90_%EC%A1%B0%EA%B1%B4%EB%AC%B8.ipynb)
 07. 반복문 [반복문.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/blob/master/07_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%B0%98%EB%B3%B5%EB%AC%B8.ipynb)
 08. 컴프리헨션 [컴프리헨션.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/commit/8e8d7659f37670a72fafe641b6403a8ff3452b6d)
-09. 함수 [함수.ipynb]()
+09. 함수 [함수.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/blob/master/09_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%ED%95%A8%EC%88%98.ipynb)
 10. 내장함수 [내장함수.ipynb]()
 11. 패키지와 모듈 [패키지와 모듈.ipynb]()
