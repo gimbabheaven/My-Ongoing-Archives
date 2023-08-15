@@ -17,4 +17,4 @@
 08. 컴프리헨션 [컴프리헨션.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/commit/8e8d7659f37670a72fafe641b6403a8ff3452b6d)
 09. 함수 [함수.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/blob/master/09_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%ED%95%A8%EC%88%98.ipynb)
 10. 내장함수 [내장함수.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/commit/95b2361800d113f9b9e7fdd6db7338c75c879fcb)
-11. 패키지와 모듈 [패키지와 모듈.ipynb]()
+11. 패키지와 모듈 [패키지와 모듈.ipynb](https://github.com/gimbabheaven/2023-Basic_Python/blob/master/11_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%ED%8C%A8%ED%82%A4%EC%A7%80_%EB%AA%A8%EB%93%88.ipynb)
