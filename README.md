@@ -15,4 +15,5 @@
 |---|---|---|---|
 |Udemy|머신러닝 수학 기초|[Mathematical Foundations of Machine Learning](https://www.udemy.com/share/103Gid3@ZBBmG-WFmH020hLRto4RYR7oRPyV1BHXiwX6t55YveZ8DLktPWvy8eyWdLLzdQULKA==/)|[Mathematical-Foundations](https://github.com/gimbabheaven/My-Ongoing-Archives/tree/main/Mathematical-Foundations)|
 |Inflearn|혼자 공부하는 머신러닝&딥러닝|[혼자 공부하는 머신러닝&딥러닝](https://inf.run/RjE7)|[Basic-ml-dl](https://github.com/gimbabheaven/My-Ongoing-Archives/tree/main/Basic-ml-dl)|
-|KMOOC|통계학의 이해|||
+|Coursera|Machine Learning Specialization|||
+|Udemy|파이썬 머신러닝 완벽 가이드|||
